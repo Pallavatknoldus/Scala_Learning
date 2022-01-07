@@ -1,2 +1,2 @@
-# Scala_Learning
+# Scala Learning
 Implementation of Scala Concepts
